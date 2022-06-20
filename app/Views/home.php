@@ -49,7 +49,7 @@
     <div class="toast <?= session()->getFlashdata('bg-class') ?>" role="alert" aria-live="assertive" aria-atomic="true"
       data-bs-autohide="false">
       <div class="toast-header">
-        <strong class="me-auto">Error</strong>
+        <strong class="me-auto">Note</strong>
         <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
       </div>
       <div class="toast-body text-white">
